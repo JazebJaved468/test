@@ -1,5 +1,0 @@
-{{#user}}
-Name: Muhammad Jazeb Javed
-Skills: HTML, CSS, JS, React.js, SQL, PHP
-Email: jazebjaved52@gmail.com
-{{/user}}
